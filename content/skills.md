@@ -16,7 +16,7 @@ A summary of my core technical competencies, instrumentation expertise, and data
 * **Surface & Interfacial Science:** Langmuir-Blodgett techniques, Axisymmetric Drop Shape Analysis (ADSA), Point of Zero Charge (PZC) titrations, and Vibrational Sum-Frequency Generation (SFG) Spectroscopy.
 
 ### Analytical Chemistry & Core Instruments
-* **Spectroscopy & Spectroscopy Tools:** Nuclear Magnetic Resonance (NMR), Fourier-Transform Infrared (FTIR), Raman Spectroscopy, Fluorescence, and UV-Vis Spectroscopy.
+* **Spectroscopy Tools:** Nuclear Magnetic Resonance (NMR), Fourier-Transform Infrared (FTIR), Raman Spectroscopy, Fluorescence, and UV-Vis Spectroscopy.
 * **Quantification & Automation:** Inductively Coupled Plasma Mass Spectrometry (ICP-MS), Liquid Scintillation Counting (LSC), Karl-Fischer titration, and Automated Titrators.
 
 ### Polymer Science & Engineering
