@@ -34,7 +34,7 @@ theme = "PaperMod"
     # This automatically generates stylized icon links
     socialIcons = [
         { name = "googlescholar", url = "https://scholar.google.com/citations?user=j23VOUwAAAAJ&hl=en&oi=ao" },
-        { name = "github", url = "https://github.com/srikanthmnb" },
+        { name = "github", url = "https://github.com/srikanthmnb/" },
 	{ name = "linkedin", url = "https://www.linkedin.com/in/nayaksrikanth/"}
     ]
 
