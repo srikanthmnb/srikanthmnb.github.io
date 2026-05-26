@@ -1,0 +1,48 @@
+baseURL = "https://srikanthmnb.github.io/"
+locale = 'en-us'
+title = 'Srikanth Nayak, Ph. D.'
+theme = "PaperMod"
+
+[[menu.main]]	
+    name = "About"
+    url = "/about/"
+    weight = 30
+
+[[menu.main]]	
+    name = "Skills"
+    url = "/skills/"
+    weight = 30
+
+[[menu.main]]	
+    name = "Publications"
+    url = "/publications/"
+    weight = 30
+
+[[menu.main]]
+    name = "Gallery"
+    url = "/gallery/"
+    weight = 35
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # This allows Hugo to render standard HTML <img> tags
+
+[params]
+    homeInfoParams = { Title = "Hi there! 👋", Content = "Links to my professional webpages" }
+    
+    # This automatically generates stylized icon links
+    socialIcons = [
+        { name = "googlescholar", url = "https://scholar.google.com/citations?user=j23VOUwAAAAJ&hl=en&oi=ao" },
+        { name = "github", url = "https://github.com/your-username" },
+	{ name = "linkedin", url = "https://www.linkedin.com/in/nayaksrikanth/"}
+    ]
+
+    # This activates the home profile view
+    [params.profileMode]
+        enabled = true
+        title = "Srikanth Nayak, Ph.D."
+        subtitle = "Separation Science | Colloidal & Interfacial Phenomena | Functional Nanomaterials"
+        imageUrl = "headshot.jpg" # Looks directly inside your static folder
+        imageWidth = 150         # Adjust size in pixels as needed
+        imageHeight = 150

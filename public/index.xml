@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Srikanth Nayak, Ph. D.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Srikanth Nayak, Ph. D.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2026 01:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 26 May 2026 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;📄 &lt;strong&gt;Curriculum Vitae:&lt;/strong&gt; Looking for a comprehensive summary of my academic and professional background? Download my full &lt;a href=&#34;http://localhost:1313/Srikanth_Nayak_CV.pdf&#34;&gt;Curriculum Vitae (PDF)&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I am a chemical scientist and researcher specializing in separation science, colloidal and interfacial phenomena, and functional nanomaterials. My research focuses on elucidating the fundamental physical chemistry, molecular mechanisms, and mesoscale structures that drive selective separations, self-assembly, and coordination chemistry in complex fluid environments.&lt;/p&gt;
+&lt;p&gt;My core expertise lies in utilizing high-brilliance synchrotron X-ray scattering and spectroscopy tools—including SAXS/WAXS, GISAXS, and X-ray reflectometry (XRR)—to map complex fluids and structural interfaces at the nanoscale. By combining advanced material characterization with surface science, automated analytical instrumentation, and computational data analysis, my work bridges fundamental molecular phenomena with predictable chemical engineering outcomes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Tue, 26 May 2026 00:40:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;p&gt;A summary of my core technical competencies, instrumentation expertise, and data analysis workflows.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;
+&lt;h3 id=&#34;advanced-characterization--scattering&#34;&gt;Advanced Characterization &amp;amp; Scattering&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Synchrotron X-ray Techniques:&lt;/strong&gt; Small-Angle and Wide-Angle X-ray Scattering (SAXS/WAXS), Extended X-ray Absorption Fine Structure (EXAFS), Grazing-Incidence Small-Angle X-ray Scattering (GISAXS), Grazing-Incidence Diffraction, and X-ray Reflectometry (XRR).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Materials Characterization:&lt;/strong&gt; Thermogravimetric Analysis (TGA), Differential Scanning Calorimetry (DSC), Scanning Electron Microscopy (SEM), Transmission Electron Microscopy (TEM), Atomic Force Microscopy (AFM), X-ray Photoelectron Spectroscopy (XPS), Dynamic Light Scattering (DLS), and Zeta-Potential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surface &amp;amp; Interfacial Science:&lt;/strong&gt; Langmuir-Blodgett techniques, Axisymmetric Drop Shape Analysis (ADSA), Point of Zero Charge (PZC) titrations, and Vibrational Sum-Frequency Generation (SFG) Spectroscopy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;analytical-chemistry--core-instruments&#34;&gt;Analytical Chemistry &amp;amp; Core Instruments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spectroscopy &amp;amp; Spectroscopy Tools:&lt;/strong&gt; Nuclear Magnetic Resonance (NMR), Fourier-Transform Infrared (FTIR), Raman Spectroscopy, Fluorescence, and UV-Vis Spectroscopy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantification &amp;amp; Automation:&lt;/strong&gt; Inductively Coupled Plasma Mass Spectrometry (ICP-MS), Liquid Scintillation Counting (LSC), Karl-Fischer titration, and Automated Titrators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;polymer-science--engineering&#34;&gt;Polymer Science &amp;amp; Engineering&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Synthesis &amp;amp; Rheology:&lt;/strong&gt; Atom Transfer Radical Polymerization (ATRP), Surface-Initiated ATRP (SI-ATRP), Gel Permeation Chromatography (GPC), and Rheometry/Rheological characterization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;computational-tools&#34;&gt;Computational Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; Python, MATLAB, OpenSCAD, and R.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+---
+
+## Publishing &amp; Communications
+*(Placeholder: Paste your publishing/writing skills here)*
+
+---
+
+## Coding &amp; Infrastructure
+*(Placeholder: Paste your software engineering/databases/Git workflows here)*
+--&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 25 May 2026 23:57:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;p&gt;A complete list of peer-reviewed journal articles and preprints. You can also find my work indexed on &lt;a href=&#34;https://scholar.google.com/citations?user=j23VOUwAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;preprints--journal-articles&#34;&gt;Preprints &amp;amp; Journal Articles&lt;/h2&gt;
+&lt;h3 id=&#34;solution-speciation-of-lanthanides-and-actinides&#34;&gt;Solution speciation of lanthanides and actinides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;. &amp;ldquo;Hydration–Complexation Balance in Eu (III)/Er (III) Extraction from Thiocyanate Media by Aliquat-336.&amp;rdquo; &lt;em&gt;ChemRxiv&lt;/em&gt;, 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;. &amp;ldquo;Spectroscopic investigation of cation effects in U (vi)-NO3 complexation in aqueous solutions.&amp;rdquo; &lt;em&gt;RSC Advances&lt;/em&gt;, 15(47), pp. 39554–39565, 2025.&lt;/li&gt;
+&lt;li&gt;Wang, Xiaoyu; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Wilson, Richard E; Soderholm, L; and Servis, Michael J. &amp;ldquo;Solvent effects on extractant conformational energetics in liquid–liquid extraction: a simulation study of molecular solvents and ionic liquids.&amp;rdquo; &lt;em&gt;Physical Chemistry Chemical Physics&lt;/em&gt;, 26(4), pp. 2877–2886, 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;interfacial-adsorption-of-lanthanides-and-actinides&#34;&gt;Interfacial adsorption of lanthanides and actinides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt; and Uysal, Ahmet. &amp;ldquo;Trivalent Rare Earth Adsorption at Phosphonic Acid Monolayers.&amp;rdquo; &lt;em&gt;ChemPhysChem&lt;/em&gt;, 26(20), p. e202500429, 2025.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Kumal, Raju R; Lee, Seung Eun; and Uysal, Ahmet. &amp;ldquo;Elucidating trivalent ion adsorption at floating carboxylic acid monolayers: charge reversal or water reorganization?&amp;rdquo; &lt;em&gt;The Journal of Physical Chemistry Letters&lt;/em&gt;, 14(15), pp. 3685–3690, 2023.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Kumal, Raju R; and Uysal, Ahmet. &amp;ldquo;Spontaneous and ion-specific formation of inverted bilayers at air/aqueous interface.&amp;rdquo; &lt;em&gt;Langmuir&lt;/em&gt;, 38(18), pp. 5617–5625, 2022.&lt;/li&gt;
+&lt;li&gt;Kumal, Raju R; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Bu, Wei; and Uysal, Ahmet. &amp;ldquo;Chemical Potential Driven Reorganization of Anions between Stern and Diffuse Layers at the Air/Water Interface.&amp;rdquo; &lt;em&gt;The Journal of Physical Chemistry C&lt;/em&gt;, 126(2), pp. 1140–1151, 2022.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Lovering, Kaitlin; Bu, Wei; and Uysal, Ahmet. &amp;ldquo;Anions enhance rare earth adsorption at negatively charged surfaces.&amp;rdquo; &lt;em&gt;The Journal of Physical Chemistry Letters&lt;/em&gt;, 11(11), pp. 4436–4442, 2020.&lt;/li&gt;
+&lt;li&gt;Lovering, Kaitlin; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Bu, Wei; and Uysal, Ahmet. &amp;ldquo;The role of specific ion effects in ion transport: The case of nitrate and thiocyanate.&amp;rdquo; &lt;em&gt;The Journal of Physical Chemistry C&lt;/em&gt;, 124(1), pp. 573–581, 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;complex-fluid-structure-in-liquid-liquid-extraction-of-lanthanides-and-actinides&#34;&gt;Complex fluid structure in liquid-liquid extraction of lanthanides and actinides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Servis, Michael J; Combs, Derrick; Szeliga, Krystian; and Seifert, Soenke. &amp;ldquo;Speciation and organic phase structure in nitric acid extraction with trioctylamine.&amp;rdquo; &lt;em&gt;The Journal of Physical Chemistry B&lt;/em&gt;, 128(13), pp. 3236–3248, 2024.&lt;/li&gt;
+&lt;li&gt;Bonnett, Brittany L; Sheyfer, Dina; Wimalasiri, Pubudu N; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Lal, Jyotsana; Zhang, Qingteng; Seifert, Soenke; Stephenson, G Brian; and Servis, Michael J. &amp;ldquo;Critical fluctuations in liquid–liquid extraction organic phases controlled by extractant and diluent molecular structure.&amp;rdquo; &lt;em&gt;Physical Chemistry Chemical Physics&lt;/em&gt;, 25(24), pp. 16389–16403, 2023.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Kumal, Raju R; Liu, Zhu; Qiao, Baofu; Clark, Aurora E; and Uysal, Ahmet. &amp;ldquo;Origins of clustering of metalate–extractant complexes in liquid–liquid extraction.&amp;rdquo; &lt;em&gt;ACS Applied Materials &amp;amp; Interfaces&lt;/em&gt;, 13(20), pp. 24194–24206, 2021.&lt;/li&gt;
+&lt;li&gt;Servis, Michael J; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; and Seifert, Soenke. &amp;ldquo;The pervasive impact of critical fluctuations in liquid–liquid extraction organic phases.&amp;rdquo; &lt;em&gt;The Journal of Chemical Physics&lt;/em&gt;, 155(24), 2021.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Lovering, Kaitlin; and Uysal, Ahmet. &amp;ldquo;Ion-specific clustering of metal–amphiphile complexes in rare earth separations.&amp;rdquo; &lt;em&gt;Nanoscale&lt;/em&gt;, 12(39), pp. 20202–20210, 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;self-assembly-and-colloidal-stability-of-nanoparticles&#34;&gt;Self-assembly and colloidal stability of nanoparticles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Nayak, Binay P; Kim, Hyeong Jin; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Wang, Wenjie; Bu, Wei; Mallapragada, Surya K; and Vaknin, David. &amp;ldquo;Assembling PNIPAM-capped gold nanoparticles in aqueous solutions.&amp;rdquo; &lt;em&gt;ACS Macro Letters&lt;/em&gt;, 12(12), pp. 1659–1664, 2023.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Fieg, Max; Wang, Wenjie; Bu, Wei; Mallapragada, Surya; and Vaknin, David. &amp;ldquo;Effect of (poly) electrolytes on the interfacial assembly of poly (ethylene glycol)-functionalized gold nanoparticles.&amp;rdquo; &lt;em&gt;Langmuir&lt;/em&gt;, 35(6), pp. 2251–2260, 2019.&lt;/li&gt;
+&lt;li&gt;Horst, Nathan; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Wang, Wenjie; Mallapragada, Surya; Vaknin, David; and Travesset, Alex. &amp;ldquo;Superlattice assembly by interpolymer complexation.&amp;rdquo; &lt;em&gt;Soft Matter&lt;/em&gt;, 15(47), pp. 9690–9699, 2019.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Horst, Nathan; Zhang, Honghu; Wang, Wenjie; Mallapragada, Surya; Travesset, Alex; and Vaknin, David. &amp;ldquo;Interpolymer complexation as a strategy for nanoparticle assembly and crystallization.&amp;rdquo; &lt;em&gt;The Journal of Physical Chemistry C&lt;/em&gt;, 123(1), pp. 836–840, 2018.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Horst, Nathan; Zhang, Honghu; Wang, Wenjie; Mallapragada, Surya; Travesset, Alex; and Vaknin, David. &amp;ldquo;Ordered Networks of Gold Nanoparticles Crosslinked by Dithiol-Oligomers.&amp;rdquo; &lt;em&gt;Particle &amp;amp; Particle Systems Characterization&lt;/em&gt;, 35(8), p. 1800097, 2018.&lt;/li&gt;
+&lt;li&gt;Zhang, Honghu; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Wang, Wenjie; Mallapragada, Surya; and Vaknin, David. &amp;ldquo;Interfacial self-assembly of polyelectrolyte-capped gold nanoparticles.&amp;rdquo; &lt;em&gt;Langmuir&lt;/em&gt;, 33(43), pp. 12227–12234, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;biomimetic-and-templated-synthesis-of-nanomaterials&#34;&gt;Biomimetic and templated-synthesis of nanomaterials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ito, Takashi; Frenk, S Erin; Rai, Nikhil; Seifert, Soenke; Lin, Xiao-Min; and &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;. &amp;ldquo;Self-Assembled Bolaamphiphile-Based Organic Nanotubes as Efficient Cu (II) Ion Adsorbents.&amp;rdquo; &lt;em&gt;Langmuir&lt;/em&gt;, 40(52), pp. 27377–27385, 2024.&lt;/li&gt;
+&lt;li&gt;Londono-Calderon, Alejandra; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Mosher, Curtis L; Mallapragada, Surya K; and Prozorov, Tanya. &amp;ldquo;New approach to electron microscopy imaging of gel nanocomposites in situ.&amp;rdquo; &lt;em&gt;Micron&lt;/em&gt;, 120., pp. 104–112, 2019.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Zhang, Honghu; Liu, Xunpei; Feng, Shuren; Palo, Pierre; Nilsen-Hamilton, Marit; Akinc, Mufit; and Mallapragada, Surya. &amp;ldquo;Protein patterns template arrays of magnetic nanoparticles.&amp;rdquo; &lt;em&gt;RSC Advances&lt;/em&gt;, 6(62), pp. 57048–57056, 2016.&lt;/li&gt;
+&lt;li&gt;Liu, Xunpei; Zhang, Honghu; &lt;strong&gt;Nayak, Srikanth&lt;/strong&gt;; Parada, German; Anderegg, James; Feng, Shuren; Nilsen-Hamilton, Marit; Akinc, Mufit; and Mallapragada, Surya K. &amp;ldquo;Effect of surface hydrophobicity on the function of the immobilized biomineralization protein Mms6.&amp;rdquo; &lt;em&gt;Industrial &amp;amp; Engineering Chemistry Research&lt;/em&gt;, 54(42), pp. 10284–10292, 2015.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 25 May 2026 16:32:55 -0500</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;[Google Scholar](&lt;a href=&#34;https://scholar.google.com/citations?user=j23VOUwAAAAJ&#34;&gt;https://scholar.google.com/citations?user=j23VOUwAAAAJ&lt;/a&gt;&amp;amp;hl=en&amp;amp;oi=ao)&lt;/li&gt;
+&lt;li&gt;GitHub&lt;/li&gt;
+&lt;li&gt;[ORCID](&lt;a href=&#34;https://orcid.org/0000-0003-0213-5796&#34;&gt;https://orcid.org/0000-0003-0213-5796&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[LinkedIn](&lt;a href=&#34;https://www.linkedin.com/in/nayaksrikanth/&#34;&gt;https://www.linkedin.com/in/nayaksrikanth/&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
