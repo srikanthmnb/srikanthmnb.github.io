@@ -5,6 +5,9 @@ draft = false
 summary = "A visual collection of journal cover arts, scientific illustrations, and graphical abstracts from my research."
 +++
 
+<img src="/images/research_overview.png" alt="Research Overview" width="50%" style="max-width:400px; border-radius:4px; margin-bottom:10px;"/>
+
+
 A selection of cover designs and conceptual graphics highlighting our work in interfacial phenomena, scattering techniques, and complex fluid structures.
 
 ---
@@ -17,7 +20,7 @@ A selection of cover designs and conceptual graphics highlighting our work in in
 ---
 
 ### Complex fluid structure in extraction of Pt and Pd chlorocomplexes
-<img src="/images/appmatint2021.jpg" alt="App Mat Int" width="100%" style="max-width:400px; border-radius:4px; margin-bottom:10px;"/>
+<img src="/images/appmatint2021.jpg" alt="App Mat Int" width="50%" style="max-width:400px; border-radius:4px; margin-bottom:10px;"/>
 
 *A s.*
 

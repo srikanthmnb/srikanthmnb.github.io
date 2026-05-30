@@ -38,10 +38,10 @@ Beyond research execution, I am deeply committed to professional service, servin
 ## Education
 
 * **Ph.D. in Chemical Engineering** (2013 — 2018)  
-  *Iowa State University, Ames, IA* * Dissertation: *Macromolecular Soft Templates for Synthesis and Hierarchical Self-Assembly of Functional Hybrid Materials* * Advisor: Dr. Surya Mallapragada
+  *Iowa State University, Ames, IA* Dissertation: *Macromolecular Soft Templates for Synthesis and Hierarchical Self-Assembly of Functional Hybrid Materials* Advisor: Dr. Surya Mallapragada
 
 * **Dual Degree (B. Tech and M. Tech) in Chemical Engineering** (2008 — 2013)  
-  *Indian Institute of Technology (IIT), Kharagpur, West Bengal, India* * Dissertation: *Adaptive Mesh Refinement in Modelling In Situ Combustion for Enhanced Oil Recovery* * Advisor: Dr. Somenath Ganguly
+  *Indian Institute of Technology (IIT), Kharagpur, West Bengal, India* Dissertation: *Adaptive Mesh Refinement in Modelling In Situ Combustion for Enhanced Oil Recovery*  Advisor: Dr. Somenath Ganguly
 
 ---
 

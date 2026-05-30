@@ -16,10 +16,10 @@ theme = "PaperMod"
 [[menu.main]]	
     name = "Publications"
     url = "/publications/"
-    weight = 30
+    weight = 40
 
 [[menu.main]]
-    name = "Gallery"
+    name = "Research"
     url = "/gallery/"
     weight = 35
 
@@ -29,16 +29,13 @@ theme = "PaperMod"
       unsafe = true  # This allows Hugo to render standard HTML <img> tags
 
 [params]
-    homeInfoParams = { Title = "Hi there! 👋", Content = "Links to my professional webpages" }
-    
-    # This automatically generates stylized icon links
+    homeInfoParams = false
     socialIcons = [
         { name = "googlescholar", url = "https://scholar.google.com/citations?user=j23VOUwAAAAJ&hl=en&oi=ao" },
         { name = "github", url = "https://github.com/srikanthmnb/" },
 	{ name = "linkedin", url = "https://www.linkedin.com/in/nayaksrikanth/"}
     ]
 
-    # This activates the home profile view
     [params.profileMode]
         enabled = true
         title = "Srikanth Nayak, Ph.D."
@@ -46,3 +43,15 @@ theme = "PaperMod"
         imageUrl = "headshot.jpg" # Looks directly inside your static folder
         imageWidth = 150         # Adjust size in pixels as needed
         imageHeight = 150
+	imageTitle = "Srikanth Nayak"
+
+    [params.assets]
+        favicon = "/images/favicon.ico"
+        favicon16x16 = "/images/favicon-16x16.png"
+        favicon32x32 = "/images/favicon-32x32.png"
+     #  apple_touch_icon = "/images/apple-touch-icon.png"
+	
+[[params.profileMode.buttons]]
+  name = "Email"
+  url = "mailto:srikanthmnb@gmail.com"
+
