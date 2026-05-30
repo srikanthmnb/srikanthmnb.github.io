@@ -18,9 +18,9 @@ theme = "PaperMod"
     url = "/publications/"
     weight = 40
 
-[[menu.main]]
+[[menu.main]]	
     name = "Research"
-    url = "/gallery/"
+    url = "/research/"
     weight = 35
 
 [markup]
